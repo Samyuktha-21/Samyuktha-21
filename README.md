@@ -1,35 +1,41 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;CS+Undergrad+%40+VIT+Chennai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;CS+Undergrad+%40+VIT+Chennai;Exploring+Data+Analysis+%26+Cybersecurity" alt="Typing SVG" />
 
-### Hi, I'm Samyuktha S 👋
+# Hi, I'm Samyuktha S 👋
 
-Full-Stack Developer · CS Undergrad @ VIT Chennai
-I build and ship scalable web apps with React, Node.js, and SQL/NoSQL databases.
+**Full-Stack Developer · CS Undergrad @ VIT Chennai**
 
-<!-- Social badges -->
+I design and ship end-to-end web apps — from React interfaces to Node/Express APIs
+and SQL/NoSQL databases. I care about clean, production-ready code and products that solve real problems.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/samyuktha-s-45a479400/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:samyuktha.s2024@vitstudent.ac.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://algoflow-theta.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demos-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demos" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=6272A4&label=PROFILE+VIEWS" alt="views" />
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🌱 Currently Learning
+
+`Data Analysis`  ·  `Cybersecurity`  —  building on my full-stack foundation with data-driven and security-focused skills.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c" />
 
 **Frontend & Backend**
 <br/>
@@ -43,27 +49,28 @@ I build and ship scalable web apps with React, Node.js, and SQL/NoSQL databases.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech | Live |
-| :--- | :--- | :--- | :---: |
-| **AlgoFlow** | DSA visualization platform — 124 algorithms, 14 animated themes, Google OAuth, global search | React · Firebase · Canvas | [↗](https://algoflow-theta.vercel.app/) |
-| **InvoiceIQ** | Full-stack billing & inventory system with JWT auth, role-based dashboards, invoice workflows | React · Node · PostgreSQL | [↗](https://invoiceiq-one.vercel.app/) |
-| **BrightPath** | Exam-tracking platform — live search, countdown timers, community hub, personalized dashboards | React · Node · MongoDB | [↗](https://brightpath-waf7.onrender.com/) |
-| **Landroid** | AgriTech IoT platform — real-time sensor dashboards, REST APIs, role-based access | React · Node · IoT | — |
-| **F1 Race Prediction** | Ensemble deep-learning model predicting Formula 1 race outcomes with metric dashboards | Python · ML | — |
+| When | Project | What it does | Stack | Links |
+| :---: | :--- | :--- | :--- | :---: |
+| **2026 · Ongoing** | **InvoiceIQ** | Full-stack billing & inventory platform — JWT auth, role-based dashboards, invoice workflows. *Internship @ Geopacific Solutions.* | React · Node · PostgreSQL | [Live](https://invoiceiq-one.vercel.app/) · `private` |
+| **Jun 2026** | **SnapFit** ⭐ | On-device webcam body-scan that finds your perfect t-shirt size across 15+ brands — privacy-first (photo never leaves your device), built to cut online-return waste. | TypeScript · Computer Vision | [Live](https://snapfit-ui.vercel.app/) · [Code](https://github.com/Samyuktha-21/SnapFit) |
+| **May 2026** | **AlgoFlow** | DSA visualization platform — 124 algorithms across 14 canvas-animated themes, Google OAuth, Firestore comments, global fuzzy search. | React · Firebase · Canvas | [Live](https://algoflow-theta.vercel.app/) · [Code](https://github.com/Samyuktha-21/AlgoFlow) |
+| **Apr 2026** | **BrightPath** | Exam-tracking platform for students — live search, category filters, countdown timers, community hub, personalized dashboards. | React · Node · MongoDB | [Live](https://brightpath-waf7.onrender.com/) · [Code](https://github.com/Samyuktha-21/BrightPath) |
+
+<sub>💡 Also built: **Landroid** – AgriTech IoT platform · **F1 Race Prediction** – ensemble ML model. Details on my résumé & LinkedIn.</sub>
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&theme=dracula" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyuktha-21&hide_border=true&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyuktha-21&hide_border=true&theme=dracula" alt="streak" />
 
 </div>
