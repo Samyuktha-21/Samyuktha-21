@@ -1,9 +1,9 @@
 <!-- ══════════════════ HERO ══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=312e81&fontColor=ffffff&text=Samyuktha%20S&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Pre-final%20year%20B.Tech%20CSE%2C%20VIT%20Chennai&descSize=16&descAlignY=58" width="100%" alt="Samyuktha S" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=011627&fontColor=7FDBCA&text=Samyuktha%20S&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Pre-final%20year%20B.Tech%20CSE%2C%20VIT%20Chennai&descSize=16&descAlignY=58" width="100%" alt="Samyuktha S" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Pre-final+year+B.Tech+CSE+%40+VIT+Chennai;Currently+exploring+Data+Analysis+%26+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FDBCA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Pre-final+year+B.Tech+CSE+%40+VIT+Chennai;Currently+exploring+Data+Analysis+%26+Cybersecurity" alt="Typing SVG" />
 
 <br/>
 
@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Email-24292E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Samyuktha-21">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=1D3B53&label=PROFILE+VIEWS" alt="views" />
 
 </div>
 
@@ -59,19 +59,19 @@ Full-stack billing & inventory platform — JWT authentication, role-based dashb
 
 `React` · `Node` · `PostgreSQL`
 
-<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-<img src="https://img.shields.io/badge/Repo-Private-6B7280?style=for-the-badge&logo=github&logoColor=white" alt="Private" />
+<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+<img src="https://img.shields.io/badge/Repo-Private-475569?style=for-the-badge&logo=github&logoColor=white" alt="Private" />
 
 </td>
 <td width="50%" valign="top">
 
-**SnapFit** &nbsp;<img src="https://img.shields.io/badge/Featured-312E81?style=flat-square" alt="Featured" align="center" />
+**SnapFit** &nbsp;<img src="https://img.shields.io/badge/Featured-F78C6C?style=flat-square" alt="Featured" align="center" />
 On-device webcam body-scan that estimates a shopper's t-shirt size across 15+ brands — privacy-first (the photo never leaves the device), built to reduce online-return waste.
 
 `TypeScript` · `Computer Vision`
 
-<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
@@ -83,8 +83,8 @@ DSA visualization platform — 124 algorithms across 14 canvas-animated themes, 
 
 `React` · `Firebase` · `Canvas`
 
-<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -94,14 +94,34 @@ Exam-tracking platform for students — live search, category filters, countdown
 
 `React` · `Node` · `MongoDB`
 
-<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=render&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=render&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**F1 Race Prediction & Analysis**
+Ensemble deep-learning model that predicts Formula 1 race outcomes using engineered features, with interactive performance-metric dashboards.
+
+`Python` · `Machine Learning` · `Deep Learning`
+
+<img src="https://img.shields.io/badge/Type-Data_Science_Project-1D3B53?style=for-the-badge" alt="type" />
+
+</td>
+<td width="50%" valign="top">
+
+**Landroid**
+Full-stack AgriTech IoT platform — real-time sensor dashboards, RESTful APIs, and role-based access control for farm monitoring.
+
+`React` · `Node` · `MongoDB` · `IoT`
+
+<img src="https://img.shields.io/badge/Type-Full--Stack_%2B_IoT-1D3B53?style=for-the-badge" alt="type" />
 
 </td>
 </tr>
 </table>
-
-<sub>Also built — <strong>Landroid</strong> (AgriTech IoT platform) and <strong>F1 Race Prediction</strong> (ensemble ML model). Full details on my résumé & LinkedIn.</sub>
 
 <!-- ══════════════════ 04 · GITHUB STATISTICS ══════════════════ -->
 
@@ -109,17 +129,17 @@ Exam-tracking platform for students — live search, category filters, countdown
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&count_private=true&hide_border=true&theme=night-owl" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&theme=night-owl" alt="top langs" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&title_color=6366f1" alt="activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=011627&color=7fdbca&line=82aaff&point=ffffff&area_color=1d3b53&title_color=7fdbca&text_color=d6deeb" alt="activity graph" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyuktha-21&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=818cf8&currStreakLabel=6366f1" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyuktha-21&hide_border=true&theme=night-owl" alt="streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=312e81&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=011627&section=footer" width="100%" alt="" />
