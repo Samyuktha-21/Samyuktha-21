@@ -1,7 +1,7 @@
-<h3 align="center">Samyuktha&nbsp;Subramanian</h3>
+<h1 align="center">Samyuktha&nbsp;Subramanian</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; I build software that ships — from React interfaces to production APIs.
+  <b>Full-Stack Developer</b> <br>&nbsp;·&nbsp; I build software that ships — from React interfaces to production APIs.
 </p>
 <p align="center">
   <sub>Pre-final year B.Tech CSE &nbsp;·&nbsp; VIT Chennai &nbsp;·&nbsp; Software Development Intern</sub>
