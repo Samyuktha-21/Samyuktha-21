@@ -1,187 +1,145 @@
-<div align="center">
+<h3 align="center">Samyuktha&nbsp;Subramanian</h3>
 
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/hero.svg" width="100%" alt="Samyuktha S — Full-Stack Developer" />
+<p align="center">
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; I build software that ships — from React interfaces to production APIs.
+</p>
+<p align="center">
+  <sub>Pre-final year B.Tech CSE &nbsp;·&nbsp; VIT Chennai &nbsp;·&nbsp; Software Development Intern</sub>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samyuktha-subramanian21/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=14B8A6" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:samyuktha.s2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=14B8A6" alt="Email"></a>&nbsp;
+  <a href="https://github.com/Samyuktha-21"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=14B8A6" alt="GitHub"></a>
+</p>
 
-<a href="https://www.linkedin.com/in/samyuktha-subramanian21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:samyuktha.s2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Samyuktha-21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=818CF8&label=VISITORS" alt="visitors" />
+<p align="center">
+  <sub><b>5 shipped products</b> &nbsp;·&nbsp; 3 live in production &nbsp;·&nbsp; first commit → deployment</sub>
+</p>
 
-</div>
+---
 
-<br/>
+### &nbsp;About
 
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s1.svg" width="100%" alt="01 About" />
+I'm a full-stack developer who takes a product from **first commit to production** — designing the interface, building the API, modelling the data, and shipping it live. I care about clean architecture, real user problems, and code that holds up under load. Right now I'm writing production code as a **Software Development Intern**, and going deeper on data analysis and cybersecurity.
 
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/card.svg" width="100%" alt="whoami" />
+---
 
-I'm a full-stack developer who takes a product from **first commit to production** — designing the interface, building the API, modelling the data, and shipping it live. I care about clean architecture, real user problems, and code that holds up under load. Right now I'm writing production code as a **Software Development Intern**, and levelling up in **Data Analysis** and **Cybersecurity**.
+### &nbsp;Selected Work
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s2.svg" width="100%" alt="02 Featured Work" />
-
-<table width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td>
 
-### InvoiceIQ &nbsp;<img src="https://img.shields.io/badge/●_in_production-27C93F?style=flat-square&labelColor=0D1117" alt="production" />
-**Client-grade billing infrastructure.**
-Production billing & inventory platform engineered during my internship at **Geopacific Solutions** — JWT authentication, role-based dashboards, automated invoice workflows, and real-time stock tracking over a PostgreSQL REST API.
+#### InvoiceIQ &nbsp; `IN PRODUCTION`
 
-</td>
-<td width="45%" valign="top">
+***Client-grade billing infrastructure, shipped.***
 
-<br/>
+Production billing & inventory platform built during my internship at **Geopacific Solutions** — JWT authentication, role-based dashboards, automated invoicing, and real-time stock tracking over a PostgreSQL REST API.
 
-`React` · `Node.js` · `Express` · `PostgreSQL`
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `PostgreSQL`
 
-<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
-<img src="https://img.shields.io/badge/Client_repo-private-30363D?style=for-the-badge&logo=github" alt="Private" />
+<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logoColor=0D1117" alt="Live"></a>
+&nbsp; <sub>Client repository is private</sub>
 
 </td>
 </tr>
 </table>
 
-<table width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### SnapFit &nbsp;<img src="https://img.shields.io/badge/★_featured-C084FC?style=flat-square&labelColor=0D1117" alt="featured" />
-**A fitting room that lives in your camera.**
+#### SnapFit &nbsp; `FEATURED`
+
+***A fitting room that lives in your camera.***
+
 On-device webcam body-scan that estimates a shopper's t-shirt size across **15+ brands** — the photo never leaves the device. Built to cut the online-return waste caused by inconsistent sizing.
 
+`TypeScript` &nbsp; `Computer Vision` &nbsp; `React`
+
+<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/Live-14B8A6?style=flat-square" alt="Live"></a>
+<a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=14B8A6" alt="Source"></a>
+
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<br/>
+#### AlgoFlow
 
-`TypeScript` · `Computer Vision` · `React`
+***124 algorithms, brought to life.***
 
-<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+DSA visualizer with **124 algorithms** across 14 canvas-animated themes, step-by-step playback, Google OAuth, and Firestore-backed comments.
+
+`React` &nbsp; `Vite` &nbsp; `Firebase`
+
+<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/Live-14B8A6?style=flat-square" alt="Live"></a>
+<a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=14B8A6" alt="Source"></a>
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### F1 Race Prediction &amp; Analysis
-**Machine learning meets motorsport.**
-Ensemble deep-learning models trained on engineered race features — driver form, team pace, track history — to predict Formula 1 outcomes, surfaced through interactive performance dashboards.
+#### BrightPath
 
-</td>
-<td width="45%" valign="top">
+***Every deadline, one dashboard.***
 
-<br/>
+Exam-tracking platform with live search, category filters, countdown timers, and a community hub — kept current by a **node-cron** sync pipeline.
 
-`Python` · `Machine Learning` · `Deep Learning`
+`React` &nbsp; `Node` &nbsp; `MongoDB`
 
-<img src="https://img.shields.io/badge/applied_ML-30363D?style=for-the-badge&logo=python&logoColor=white" alt="ML" />
+<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/Live-14B8A6?style=flat-square" alt="Live"></a>
+<a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=14B8A6" alt="Source"></a>
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+#### F1 Race Predictor
 
-### AlgoFlow
-**124 algorithms, brought to life.**
-DSA visualization platform with 14 canvas-animated themes, step-by-step playback, Google OAuth, Firestore-backed comments, and global fuzzy search.
+***Predicting the podium from data.***
 
-</td>
-<td width="45%" valign="top">
+ML pipeline predicting Formula 1 finishing positions from **~200K lap-telemetry records** (2018–2025) pulled via the FastF1 API.
 
-<br/>
+`Python` &nbsp; `scikit-learn` &nbsp; `Streamlit`
 
-`React` · `Vite` · `Firebase` · `Canvas`
-
-<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/SilverSouls226/f1-race-predictor"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=14B8A6" alt="Source"></a>
 
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+---
 
-### BrightPath
-**Every exam deadline, one dashboard.**
-Exam-tracking platform for students — live search, category filters, countdown timers, a community hub, and personalized dashboards.
+### &nbsp;Toolkit
 
-</td>
-<td width="45%" valign="top">
+**Languages** &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=14B8A6" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=14B8A6" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=14B8A6" alt="Python">
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=14B8A6" alt="Java">
+<img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=14B8A6" alt="C++">
 
-<br/>
+**Frontend** &nbsp;
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=14B8A6" alt="React">
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=14B8A6" alt="Vite">
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=14B8A6" alt="Tailwind">
 
-`React` · `Node.js` · `MongoDB`
+**Backend & Data** &nbsp;
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=14B8A6" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=14B8A6" alt="Express">
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=14B8A6" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=14B8A6" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=14B8A6" alt="MySQL">
+<img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=14B8A6" alt="Firebase">
 
-<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+**Tools** &nbsp;
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=14B8A6" alt="Git">
+<img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=14B8A6" alt="Postman">
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=14B8A6" alt="Vercel">
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=14B8A6" alt="VS Code">
 
-</td>
-</tr>
-</table>
+---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### Landroid
-**IoT telemetry for smarter farming.**
-Full-stack AgriTech platform streaming real-time sensor data into live dashboards over RESTful APIs, with role-based access control for farm monitoring.
-
-</td>
-<td width="45%" valign="top">
-
-<br/>
-
-`React` · `Node.js` · `MongoDB` · `IoT`
-
-<img src="https://img.shields.io/badge/full--stack_+_IoT-30363D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s3.svg" width="100%" alt="03 Stack" />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logoColor=white" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s4.svg" width="100%" alt="04 Momentum" />
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=818CF8&point=FFFFFF&area_color=30363D&title_color=818CF8&text_color=C9D1D9" alt="contribution activity" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
-</div>
+<p align="center">
+  <sub>Open to SDE & product-engineering roles &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; Chennai, India</sub>
+</p>
