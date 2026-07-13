@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="whoami">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <path d="M12 0.5 H988 A11.5 11.5 0 0 1 999.5 12 V44 H0.5 V12 A11.5 11.5 0 0 1 12 0.5 Z" fill="#161B22" stroke="#30363D"/>
+  <circle cx="26" cy="22.5" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="22.5" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="22.5" r="6" fill="#27C93F"/>
+  <text x="500" y="27" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#7D8590">samyuktha@vit — ~/profile</text>
+
+  <text x="34" y="88" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace" font-size="15" fill="#7D8590">$ <tspan fill="#C9D1D9">whoami</tspan></text>
+  <text x="34" y="120" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="url(#acc)">Samyuktha S · Full-Stack Developer</text>
+
+  <g font-family="ui-monospace,Consolas,monospace" font-size="14.5">
+    <text x="34" y="162" fill="#6E7681">role<tspan x="170" fill="#C9D1D9">Software Development Intern @ Geopacific Solutions</tspan></text>
+    <text x="34" y="190" fill="#6E7681">focus<tspan x="170" fill="#C9D1D9">end-to-end web · REST APIs · auth &amp; RBAC</tspan></text>
+    <text x="34" y="218" fill="#6E7681">stack<tspan x="170" fill="#C9D1D9">React · Node · TypeScript · PostgreSQL · MongoDB</tspan></text>
+    <text x="34" y="246" fill="#6E7681">learning<tspan x="170" fill="#C9D1D9">Data Analysis · Cybersecurity</tspan></text>
+    <text x="34" y="274" fill="#6E7681">education<tspan x="170" fill="#C9D1D9">B.Tech CSE · VIT Chennai (pre-final year)</tspan></text>
+  </g>
+
+  <rect x="792" y="70" width="176" height="176" rx="12" fill="#010409" stroke="#21262D"/>
+  <text x="880" y="172" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace" font-size="56" font-weight="800" fill="url(#acc)">&lt;/&gt;</text>
+  <text x="880" y="208" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="4" fill="#7D8590">SHIP IT</text>
+</svg>
