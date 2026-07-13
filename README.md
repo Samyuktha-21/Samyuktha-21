@@ -1,85 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0D1117&fontColor=FFFFFF&text=SAMYUKTHA%20S&fontSize=44&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Pre-final%20year%20B.Tech%20CSE%20%C2%B7%20VIT%20Chennai&descSize=15" width="100%" alt="Samyuktha S" />
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/hero.svg" width="100%" alt="Samyuktha S — Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=800&color=F85149&center=true&vCenter=true&width=640&lines=I+build+software+that+ships.;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Full-stack+engineering+%2B+applied+machine+learning" alt="headline" />
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/samyuktha-subramanian21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:samyuktha.s2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:samyuktha.s2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Samyuktha-21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=E10600&label=VISITORS" alt="visitors" />
-
-<br/><br/>
-
-<samp><b><a href="#-about">ABOUT</a> &nbsp;·&nbsp; <a href="#-featured-work">FEATURED WORK</a> &nbsp;·&nbsp; <a href="#-stack">STACK</a> &nbsp;·&nbsp; <a href="#-stats">STATS</a></b></samp>
+<img src="https://komarev.com/ghpvc/?username=Samyuktha-21&style=for-the-badge&color=818CF8&label=VISITORS" alt="visitors" />
 
 </div>
 
 <br/>
 
-## <samp>⌁ ABOUT</samp>
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s1.svg" width="100%" alt="01 About" />
 
-I engineer **end-to-end web platforms** — React interfaces, Node.js/Express APIs, and SQL/NoSQL data layers — and take them all the way to **production**. Pre-final year Computer Science undergraduate at **VIT Chennai**.
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/card.svg" width="100%" alt="whoami" />
 
-- Currently building **InvoiceIQ**, a client billing platform, as a **Software Development Intern @ Geopacific Solutions**
-- Sharpening my edge in **Data Analysis** and **Cybersecurity**
-- **Toastmasters International Charter Member** — clear technical communication is part of my toolkit
+I'm a full-stack developer who takes a product from **first commit to production** — designing the interface, building the API, modelling the data, and shipping it live. I care about clean architecture, real user problems, and code that holds up under load. Right now I'm writing production code as a **Software Development Intern**, and levelling up in **Data Analysis** and **Cybersecurity**.
 
 <br/>
 
-## <samp>⌁ FEATURED WORK</samp>
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s2.svg" width="100%" alt="02 Featured Work" />
 
-### InvoiceIQ
-**Client-grade billing infrastructure.** Production billing & inventory platform engineered during my internship at Geopacific Solutions — JWT authentication, role-based dashboards, automated invoice workflows, and real-time stock tracking on a PostgreSQL-backed REST API.
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-`React` · `Node.js` · `Express` · `PostgreSQL` &nbsp;&nbsp;
-<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/LIVE-E10600?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a> <img src="https://img.shields.io/badge/CLIENT_REPO-PRIVATE-30363D?style=flat-square&logo=github" alt="Private" />
+### InvoiceIQ &nbsp;<img src="https://img.shields.io/badge/●_in_production-27C93F?style=flat-square&labelColor=0D1117" alt="production" />
+**Client-grade billing infrastructure.**
+Production billing & inventory platform engineered during my internship at **Geopacific Solutions** — JWT authentication, role-based dashboards, automated invoice workflows, and real-time stock tracking over a PostgreSQL REST API.
 
----
+</td>
+<td width="45%" valign="top">
 
-### SnapFit
-**A fitting room that lives in your camera.** On-device webcam body-scan that estimates your t-shirt size across **15+ brands** — the photo never leaves the device. Built to cut the online-return waste caused by inconsistent sizing.
+<br/>
 
-`TypeScript` · `Computer Vision` · `React` &nbsp;&nbsp;
-<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/LIVE-E10600?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a> <a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+`React` · `Node.js` · `Express` · `PostgreSQL`
 
----
+<a href="https://invoiceiq-one.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
+<img src="https://img.shields.io/badge/Client_repo-private-30363D?style=for-the-badge&logo=github" alt="Private" />
 
-### F1 Race Prediction & Analysis
-**Machine learning meets motorsport.** Ensemble deep-learning models trained on engineered race features — driver form, team pace, track history — to predict Formula 1 race outcomes, visualized through interactive performance dashboards.
+</td>
+</tr>
+</table>
 
-`Python` · `Machine Learning` · `Deep Learning` · `Feature Engineering` &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/APPLIED_ML-30363D?style=flat-square&logo=python&logoColor=white" alt="ML" />
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
----
+### SnapFit &nbsp;<img src="https://img.shields.io/badge/★_featured-C084FC?style=flat-square&labelColor=0D1117" alt="featured" />
+**A fitting room that lives in your camera.**
+On-device webcam body-scan that estimates a shopper's t-shirt size across **15+ brands** — the photo never leaves the device. Built to cut the online-return waste caused by inconsistent sizing.
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+`TypeScript` · `Computer Vision` · `React`
+
+<a href="https://snapfit-ui.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/SnapFit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### F1 Race Prediction &amp; Analysis
+**Machine learning meets motorsport.**
+Ensemble deep-learning models trained on engineered race features — driver form, team pace, track history — to predict Formula 1 outcomes, surfaced through interactive performance dashboards.
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+`Python` · `Machine Learning` · `Deep Learning`
+
+<img src="https://img.shields.io/badge/applied_ML-30363D?style=for-the-badge&logo=python&logoColor=white" alt="ML" />
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### AlgoFlow
-**124 algorithms, animated and interactive.** DSA visualization platform with 14 canvas-animated themes, step-by-step playback, Google OAuth, Firestore-backed comments, and global fuzzy search.
+**124 algorithms, brought to life.**
+DSA visualization platform with 14 canvas-animated themes, step-by-step playback, Google OAuth, Firestore-backed comments, and global fuzzy search.
 
-`React` · `Vite` · `Firebase` · `Canvas` &nbsp;&nbsp;
-<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/LIVE-E10600?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a> <a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-
----
-
-### BrightPath
-**Every exam deadline, one dashboard.** Exam-tracking platform for students — live search, category filters, countdown timers, a community hub, and personalized dashboards.
-
-`React` · `Node.js` · `MongoDB` &nbsp;&nbsp;
-<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/LIVE-E10600?style=flat-square&logo=render&logoColor=white" alt="Live" /></a> <a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-
----
-
-### Landroid
-**IoT telemetry for smarter farming.** Full-stack AgriTech platform streaming real-time sensor data into live dashboards over RESTful APIs, with role-based access control for farm monitoring.
-
-`React` · `Node.js` · `MongoDB` · `IoT` &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FULL--STACK_+_IOT-30363D?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
+</td>
+<td width="45%" valign="top">
 
 <br/>
 
-## <samp>⌁ STACK</samp>
+`React` · `Vite` · `Firebase` · `Canvas`
+
+<a href="https://algoflow-theta.vercel.app/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/AlgoFlow"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### BrightPath
+**Every exam deadline, one dashboard.**
+Exam-tracking platform for students — live search, category filters, countdown timers, a community hub, and personalized dashboards.
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+`React` · `Node.js` · `MongoDB`
+
+<a href="https://brightpath-waf7.onrender.com/"><img src="https://img.shields.io/badge/▶_Live-818CF8?style=for-the-badge&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Samyuktha-21/BrightPath"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### Landroid
+**IoT telemetry for smarter farming.**
+Full-stack AgriTech platform streaming real-time sensor data into live dashboards over RESTful APIs, with role-based access control for farm monitoring.
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+`React` · `Node.js` · `MongoDB` · `IoT`
+
+<img src="https://img.shields.io/badge/full--stack_+_IoT-30363D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s3.svg" width="100%" alt="03 Stack" />
 
 <div align="center">
 
@@ -95,20 +171,11 @@ I engineer **end-to-end web platforms** — React interfaces, Node.js/Express AP
 
 <br/>
 
-## <samp>⌁ STATS</samp>
+<img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/s4.svg" width="100%" alt="04 Momentum" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&count_private=true&hide_border=true&title_color=F85149&icon_color=E10600&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&title_color=F85149&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=E10600&point=FFFFFF&area_color=30363D&title_color=F85149&text_color=C9D1D9" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyuktha-21&hide_border=true&background=0D1117&stroke=30363D&ring=E10600&fire=F85149&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85149&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=818CF8&point=FFFFFF&area_color=30363D&title_color=818CF8&text_color=C9D1D9" alt="contribution activity" />
 
 <br/><br/>
 
