@@ -1,9 +1,9 @@
-<h1 align="center">Samyuktha&nbsp;Subramanian</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/header.svg" width="72%" alt="Samyuktha Subramanian — Full-Stack Developer" />
+</div>
 
 <p align="center">
-  <b>Full-Stack Developer</b> <br>&nbsp;·&nbsp; I build software that ships — from React interfaces to production APIs.
-</p>
-<p align="center">
+  I build software that ships — from React interfaces to production APIs.<br>
   <sub>Pre-final year B.Tech CSE &nbsp;·&nbsp; VIT Chennai &nbsp;·&nbsp; Software Development Intern</sub>
 </p>
 
@@ -137,6 +137,18 @@ ML pipeline predicting Formula 1 finishing positions from **~200K lap-telemetry 
 <img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=14B8A6" alt="Postman">
 <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=14B8A6" alt="Vercel">
 <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=14B8A6" alt="VS Code">
+
+---
+
+### &nbsp;GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Samyuktha-21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14B8A6&icon_color=14B8A6&text_color=9AA4AE&bg_color=0D1117" alt="Samyuktha's GitHub stats">
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyuktha-21&layout=compact&hide_border=true&title_color=14B8A6&text_color=9AA4AE&bg_color=0D1117" alt="Most used languages">
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyuktha-21&hide_border=true&area=true&bg_color=0D1117&color=9AA4AE&line=14B8A6&point=2DD4BF&area_color=14B8A6&title_color=14B8A6&text_color=9AA4AE" alt="Contribution activity graph">
 
 ---
 
