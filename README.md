@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/header.svg" width="72%" alt="Samyuktha Subramanian — Full-Stack Developer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/header-dark.svg">
+    <img src="https://raw.githubusercontent.com/Samyuktha-21/Samyuktha-21/main/assets/header-light.svg" width="72%" alt="Samyuktha Subramanian — Full-Stack Developer">
+  </picture>
 </div>
-
 <p align="center">
-  I build software that ships — from React interfaces to production APIs.<br>
-  <sub>Pre-final year B.Tech CSE &nbsp;·&nbsp; VIT Chennai &nbsp;·&nbsp; Software Development Intern</sub>
+  <code>Pre-final year B.Tech CSE</code> &nbsp; <code>VIT Chennai</code> &nbsp; <code>Software Development Intern</code>
 </p>
 
 <p align="center">
